@@ -1,0 +1,106 @@
+body {
+	 font-family: Segoe UI;
+}
+
+header{
+	padding: 10px 20px;
+	background: #fff;
+	
+}
+
+header img{
+	width: 400px;
+	height:80px;
+	
+}
+
+header h5{
+	text-align: right;
+	margin-left: 250px;
+	color:#03A5BC;
+	padding: 20px 0;
+	font-family: Segoe UI;
+	font-size: 20px;
+	
+}
+
+#seccion-1 {
+	background-image: url(../img/Fumigacion-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	
+}
+#cotizacion h1{
+	background-color:#03A5BC;
+	color: #fff;
+	padding: 50px 0;
+	text-align: center;
+	
+	
+}
+
+#slider {
+	background-color: #726B6C;
+	
+}
+
+#slider h1 {
+	color: #fff;
+	text-align: center;
+	padding: 10px 10px;
+	background-color:#03A5BC;
+
+}
+
+#slider img{
+	max-height: 720px;
+}
+
+#servicios {
+	padding: 80px 0;
+	
+}
+
+#servicios h3 {
+	color: #03A5BC;
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+
+#servicios article h4 {
+	background-color: #85B818;
+	text-align: center;
+	padding: 50px 0;
+	color: #fff;
+	
+	
+}
+
+#content label {
+	font: Segoe UI;
+	color:#03A5BC;
+	font-weight: bold;
+}
+
+footer {
+	background-color: #85B818;
+	padding: 90px;
+	font-family: Segoe UI;
+	color: #fff;
+	
+}
+
+footer img{
+	width: 200px;
+	height: 200px;
+	align: left;
+	
+	
+}
+
+#content {
+	padding: 50px 0;
+}
