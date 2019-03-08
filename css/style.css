@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 body {
-	 font-family: Segoe UI;
+	 font-family: 'Montserrat', sans-serif;
 }
 
 header{
@@ -84,7 +86,7 @@ header h5{
 footer {
 	background-color: #85B818;
 	padding: 90px;
-	font-family: Segoe UI;
+	font-family: 'Montserrat', sans-serif;
 	color: #fff;
 	
 }
@@ -99,4 +101,36 @@ footer img{
 
 #content {
 	padding: 50px 0;
+}
+
+
+#foto-sec {
+	background-image: url(../img/Fumigacion-2.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	
+}
+
+#mision{
+	padding: 100px 0;
+}
+
+
+#mision h1 {
+	color: #03A5BC;
+	text-align: center;
+	
+}
+
+#mision p{
+	text-align: justify;
+}
+
+#footer h4{
+	margin-top: 10px; 
+}
+#footer .fas{
+	margin-right: 10px;
 }
